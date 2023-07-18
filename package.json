@@ -1,0 +1,19 @@
+{
+  "name": "site_nutricao",
+  "version": "1.0.0",
+  "description": "Site em js de nutrição",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorferreira23/Site_Nutricao.git"
+  },
+  "author": "Junior Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniorferreira23/Site_Nutricao/issues"
+  },
+  "homepage": "https://github.com/juniorferreira23/Site_Nutricao#readme"
+}
