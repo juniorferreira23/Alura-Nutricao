@@ -44,6 +44,6 @@ O projeto trata-se de um site, no qual o profissional de nutrição terá ferram
 
 
 # Licença
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/juniorferreira23/Project_Save_Links/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/juniorferreira23/Site_Nutricao/blob/main/LICENSE)
 
 
