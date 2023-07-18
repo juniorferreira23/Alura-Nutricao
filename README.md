@@ -34,7 +34,7 @@ O projeto trata-se de um site, no qual o profissional de nutrição terá ferram
 * instalar extensão no VSCode
 
 #### Execute a aplicação:
-* "Go live" canto inferior direito para rodar o projeto
+* Botão "Go live" canto inferior direito para rodar o projeto
 
 # Tecnologias usadas
 ### Frontend
