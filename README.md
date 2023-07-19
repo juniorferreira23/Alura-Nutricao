@@ -25,7 +25,7 @@ O projeto trata-se de um site, no qual o profissional de nutrição terá ferram
 
 # Como rodar a aplicação
 #### No terminal, clone o projeto:
-* git clone 
+* git clone https://github.com/juniorferreira23/Site_Nutricao.git
 
 #### Entre na pasta do projeto:
 * cd Diretorio_do_Projeto
